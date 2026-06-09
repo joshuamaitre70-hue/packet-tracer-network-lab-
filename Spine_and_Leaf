@@ -1,1 +1,16 @@
 Spine-leaf is a two-tier data center topology where every leaf connects to every spine, giving predictable 1–2 hop paths, high bandwidth via ECMP, and easy scaling with strong fault tolerance.
+
+
+A Collapsed Core is a network design where the Core Layer and the Distribution Layer are combined into one physical and logical layer. Instead of separating high-speed backbone functions and policy/control functions into different switch tiers, both responsibilities are handled by the same set of multilayer switches.
+
+
+A hybrid topology combines two or more network topologies (such as star, ring, or mesh) into a single network to gain flexibility, performance, and reliability.
+
+
+ring topology is a network design where each device is connected to exactly two neighboring devices, forming a continuous closed loop. 
+
+
+A mesh topology connects devices to multiple other devices, providing high redundancy and fault tolerance through multiple communication paths.
+
+
+A star topology is a network design where every device connects to a single central device. All communication passes through this central device, which receives data from one device and forwards it to the correct destination. Modern Ethernet networks almost always use star topology because it is fast, easy to manage, and isolates failures
