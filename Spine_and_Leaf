@@ -1,1 +1,1 @@
-pine-leaf is a two-tier data center topology where every leaf connects to every spine, giving predictable 1–2 hop paths, high bandwidth via ECMP, and easy scaling with strong fault tolerance.
+Spine-leaf is a two-tier data center topology where every leaf connects to every spine, giving predictable 1–2 hop paths, high bandwidth via ECMP, and easy scaling with strong fault tolerance.
